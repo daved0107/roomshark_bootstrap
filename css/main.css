@@ -1,0 +1,72 @@
+
+.btn-outline-secondary {
+    padding: 3px;
+    width: 150px;
+    margin-bottom: 1ch;
+}
+
+.btn-outline-success {
+    padding: 3px;
+    width: 150px;
+    margin-bottom: 1ch;
+}
+
+.webdesing {
+    text-align: right;
+    
+}
+.socialmedia {
+    text-align: right;
+}
+.itsolutions {
+    text-align: right;
+}
+.text-muted {
+    text-align: justify;
+
+
+}
+.jumbotron-heading{
+    margin: auto;
+}
+
+main {
+    background-image: url("../img/dot-grid.png")
+}
+
+footer {
+    
+    background-color: rgba(45, 52, 54, 1);
+
+}
+
+/*Max Screen 425px Tablet down*/
+@media (max-width: 768px) {
+    .jumbo2 {
+        text-align: center;
+    }
+    .col-sm-2{
+        width: 50%;
+    }
+
+    .webdesing{
+        text-align: center;
+    }
+    .socialmedia {
+        text-align: center;
+    }
+    .itsolutions {
+        text-align: center;
+    }
+
+   .list-unstyled {
+       padding: 10px;
+       height: 15px;
+       text-align: center;
+       
+   }
+
+}
+
+
+  
